@@ -1,7 +1,14 @@
 - 🔭 I’m currently helping others as a coding tutor
 - 👯 I’m looking to collaborate on inspirational projects
-- 📫 How to reach me:  [![LinkedIn][linkedin-shield]][linkedin-url]
 - 😄 ⚡  Fun fact: I have eaten insects
+
+### How to reach me 📫
+<span>
+    <a href="https://www.linkedin.com/in/fiolalewis/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://dev.to/fion21" target="blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
+    </a>
+</span>
+<br/>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fion21&theme=tokyonight)](https://git.io/streak-stats)
 
