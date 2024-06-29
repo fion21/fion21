@@ -1,6 +1,7 @@
 - 🔭 I’m currently helping others as a coding tutor
 - 👯 I’m looking to collaborate on inspirational projects
 - 😄 ⚡  Fun fact: I have eaten insects
+-  [5 second CV](https://fion21.github.io/CV-of-projects)
 
 ### How to reach me 📫
 <span>
