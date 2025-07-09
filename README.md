@@ -1,5 +1,5 @@
-- 🔭 I’m currently helping others as a coding tutor and collaborating on real live inspirational projects
-- 👯 I’m open to collaborate on more projects.
+- 🔭 I’m collaborating on live inspirational projects
+- 💎  I have created a Ruby Gem
 - 😄 ⚡  Fun fact: I have eaten insects
 -  [5 second CV](https://fion21.github.io/CV-of-projects)
 
