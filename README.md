@@ -1,4 +1,4 @@
-- 🔭 I’m collaborating on live inspirational projects
+- 🔭 I’m collaborating on inspirational projects
 - 💎  I have created a Ruby Gem
 - 😄 ⚡  Fun fact: I have eaten insects
 -  [5 second CV](https://fion21.github.io/CV-of-projects)
