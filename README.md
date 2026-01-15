@@ -19,7 +19,9 @@
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?logo=ruby-on-rails&logoColor=white)
 
 #### Stats
-![Fion L's GitHub statistics](https://github-readme-stats.vercel.app/api?username=fion21&show_icons=true&theme=radical)
+![Fion L's GitHub statistics](https://github-stats.vercel.app/api?username=fion21&show_icons=true&theme=radical)
+
+
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/fiolalewis
